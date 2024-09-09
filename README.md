@@ -23,7 +23,7 @@ Jag är en passionerad systemutvecklare och programmerare med ett starkt intress
 
 **Projekt**
 * **Pong Game:** https://github.com/KevinHabib/Pong-Game
-* **[Projektnamn 2]:** [Kort beskrivning och länk till repo]
+* **Webbsida (Travels):** https://github.com/KevinHabib/Webbsida-Travels-
 
 **Kontakta mig**
 * Kevinhabib99@hotmail.com
