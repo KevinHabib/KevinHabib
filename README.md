@@ -22,7 +22,7 @@ Jag är en passionerad systemutvecklare och programmerare med ett starkt intress
 | [![Debugging](https://img.shields.io/badge/Debugging-blue?style=flat-square)](https://en.wikipedia.org/wiki/Debugging) | Viktigt för att hitta och åtgärda fel i kod. |
 
 **Projekt**
-* **[Projektnamn 1]:** [Kort beskrivning och länk till repo]
+* **Pong Game:** https://github.com/KevinHabib/Pong-Game
 * **[Projektnamn 2]:** [Kort beskrivning och länk till repo]
 
 **Kontakta mig**
