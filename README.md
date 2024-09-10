@@ -24,7 +24,7 @@ Jag är en passionerad systemutvecklare och programmerare med ett starkt intress
 **Projekt**
 * **Pong Game:** https://github.com/KevinHabib/Pong-Game
 * **Webbsida (Travels):** https://github.com/KevinHabib/Webbsida-Travels-
-* **Pong Game:** https://github.com/KevinHabib/Pong-Game
+* **Zombie Shooter Game:** https://github.com/KevinHabib/Zombie-Shooter-Game
 
 **Kontakta mig**
 * Kevinhabib99@hotmail.com
