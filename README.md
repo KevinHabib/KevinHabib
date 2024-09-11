@@ -29,4 +29,4 @@ Jag är en passionerad systemutvecklare och programmerare med ett starkt intress
 
 **Kontakta mig**
 * Kevinhabib99@hotmail.com
-* [Din LinkedIn]
+
